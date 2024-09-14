@@ -1,0 +1,394 @@
+@import url('https://font.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+body{
+  background-image: url('bgweb.jpg');
+  min-height: 200wh;
+  margin: 0;
+  padding: 0;
+}
+.container{
+  text-align: center;
+  margin-top: 360px;
+}
+.bgweb-1,
+.bgweb-1 * {
+  box-sizing: border-box;
+}
+.bgweb-1 {
+  width: 1523px;
+  height: 731px;
+  position: relative;
+  opacity: 88%;
+}
+.picsec1 {
+  width: 542px;
+  height: 503px;
+  position: absolute;
+  left: 0px;
+  top: 800px;
+}
+.headtitle {
+  color: #ff9898;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 253px;
+}
+.headpara {
+  color: #ff9898;
+  text-align: left;
+  font: 400 22px "Krona One", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 453px;
+}
+.headtitle-2 {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 155px;
+}
+.headpara-2 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 658px;
+}
+.headlititle-2{
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Krona One", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 110px;
+}
+.headtitle-3 {
+  color: #fa8585;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: -14px;
+  top: 1302px;
+}
+.headpara-3 {
+  color: #fa8585;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: -9px;
+  top: 1800px;
+}
+.headlititle-3{
+  color: #fa8585;
+  text-align: left;
+  font: 400 32px "Krona One", sans-serif;
+  position: absolute;
+  left: -17px;
+  top: 1238px;
+}
+
+.headtitle-4 {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: 42px;
+  top: 1230px;
+}
+.headpara-4 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: 64px;
+  top: 1752px;
+  }
+.headlititle-4{
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Krona One", sans-serif;
+  position: absolute;
+  left: 28px;
+  top: 1175px;;
+}
+
+.headtitle-5 {
+  color: #fa8585;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: -10px;
+  top: 1230px;
+}
+.headpara-5 {
+  color: #fa8585;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: -9px;
+  top: 1788px;
+  }
+.headlititle-5{
+  color: #fa8585;
+  text-align: left;
+  font: 400 32px "Krona One", sans-serif;
+  position: absolute;
+  left: -17px;
+  top: 1175px;
+}
+.headtitle-6 {
+  color: #000000;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: 42px;
+  top: 1230px;
+}
+.headpara-6 {
+  color: #000000;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: 64px;
+  top: 1752px;
+  }
+.headlititle-6{
+  color: #000000;
+  text-align: left;
+  font: 400 32px "Krona One", sans-serif;
+  position: absolute;
+  left: 28px;
+  top: 1175px;;
+}
+.headtitle-7 {
+  color: #fa8585;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: 6px;
+  top: 1230px;
+}
+.headpara-7 {
+  color: #fa8585;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: -3px;
+  top: 1782px;
+  }
+.headlititle-7{
+  color: #fa8585;
+  text-align: left;
+  font: 400 32px "Krona One", sans-serif;
+  position: absolute;
+  left: -13px;
+  top: 1175px;
+}
+.headit {
+  color: #000000;
+  text-align: left;
+  font: 400 54px "Krona One", sans-serif;
+  position: absolute;
+  left: 600px;
+  top: 83px;
+}
+
+.frame-1,
+.frame-1 * {
+  box-sizing: border-box;
+}
+.frame-1 {
+  background-color: #fa8585;
+  width: 1519px;
+  height: 2700px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-2,
+.frame-2 * {
+  box-sizing: border-box;
+}
+.frame-2 {
+  background-color: #fa8585;
+  width: 1519px;
+  height: 7300px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3,
+.frame-3 * {
+  box-sizing: border-box;
+}
+.frame-3 {
+  background-color: #fa8585;
+  width: 1519px;
+  height: 3200px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-4,
+.frame-4 * {
+  box-sizing: border-box;
+}
+.frame-4 {
+  background-color: #fa8585;
+  width: 1519px;
+  height: 800px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #000000;
+  width: 1519px;
+  height: 80px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: #000000;
+  width: 1523px;
+  height: 1300px;
+  position: absolute;
+  left: 0px;
+  top: 1400px;
+}
+.lulu {
+  color: #ff9898;
+  text-align: left;
+  font: 400 48px "Krona One";
+  position: absolute;
+  left: 41px;
+  top: 10px;
+}
+.lulu:hover {
+  color: #ffffff;
+}
+.job {
+  color: #ff9898;
+  text-decoration: none;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: 270px;
+  top: 27px;
+  letter-spacing: 0.5px;
+  padding: 0 10px;
+}
+
+.job:before {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  height: 3px;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 52px;
+  transform: scaleX(0);
+  left: 0;
+  transition: 0.3s;
+}
+
+.job:hover {
+  color: #ffffff;
+}
+
+.job:hover:before {
+  transform: scaleX(1);
+}
+
+.banner {
+  color: #ff9898;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: 350px;
+  top: 28px;
+}
+
+.banner:before {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  height: 3px;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 52px;
+  transform: scaleX(0);
+  left: 0;
+  transition: 0.3s;
+}
+
+.banner:hover {
+  color: #ffffff;
+}
+
+.banner:hover:before {
+  transform: scaleX(1);
+}
+
+
+.contact {
+  color: #ff9898;
+  text-align: left;
+  font: 400 18px "Krona One", sans-serif;
+  position: absolute;
+  left: 470px;
+  top: 28px;
+}
+
+.contact:before {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  height: 3px;
+  width: 100%;
+  background: #ffffff;
+  border-radius: 52px;
+  transform: scaleX(0);
+  left: 0;
+  transition: 0.3s;
+}
+
+.contact:hover {
+  color: #ffffff;
+}
+
+.contact:hover:before {
+  transform: scaleX(1);
+}
+.abouts{
+    color: #000000;
+    text-align: left;
+    font: 400 64px "Krona One", sans-serif;
+    position: absolute;
+    left: 500px;
+    top: 800px;
+}
+.detaabouts{
+  color: #000000;
+  text-align: left;
+  font: 400 22px "Krona One", sans-serif;
+  position: absolute;
+  left: 550px;
+  top: 920px;
+}
+.jobpost{
+  color: #ff9898;
+  text-align: left;
+  font: 400 64px "Krona One", sans-serif;
+  position: absolute;
+  left: 500px;
+  top: 1450px;
+}

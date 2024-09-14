@@ -1,0 +1,555 @@
+
+.btn-1{
+  border: 1px solid#ff9898;
+  border-radius: 10%;
+  color: #ff9898;
+  background: none;
+  padding:  10px 20px;
+  font-size: 20px;
+  font: "Krona One";
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.8s;
+  position: absolute;
+  left: 1240px;
+  top: 7px;
+}
+.btn-1:hover{
+  color: #ffffff;
+  border: 1px solid#ffffff;
+}
+
+.btn-2{
+  border: 1px solid#ff9898;
+  border-radius: 10%;
+  color: #ff9898;
+  background: none;
+  padding:  10px 20px;
+  font-size: 20px;
+  font: "Krona One";
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.8s;
+  position: absolute;
+  left: 1378px;
+  top: 7px;
+}
+.btn-2:hover{
+  color: #ffffff;
+  border: 1px solid#ffffff;
+}
+
+.btn-3{
+  border: 1px solid#ff9898;
+  border-radius: 6%;
+  color: #ff9898;
+  background: none;
+  padding:  10px 20px;
+  font-size: 20px;
+  font: "Krona One";
+  cursor: pointer;
+  margin: 10px;
+  transition: 0.8s;
+  position: absolute;
+  left: 30px;
+  top: 580px;
+}
+.btn-3:hover{
+  color: #000000;
+  background-color: #ff9898;
+  border: 1px solid#ff9898;
+}
+
+
+.btn-card-1{
+    border: 1px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  10px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 70px;
+    top: 160px;
+  }
+  .btn-card-1:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+
+
+  .btn-card-2{
+    border: 1px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  10px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 70px;
+    top: 135px;
+  }
+  .btn-card-2:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+
+  }
+  .btn-card-3{
+    border: 1px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  10px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 50px;
+    top: 180px;
+  }
+  .btn-card-3:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+
+  .btn-card-4{
+    border: 1px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  10px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 70px;
+    top: 140px;
+  }
+  .btn-card-4:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+
+  .btn-card-5{
+    border: 1px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  10px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 50px;
+    top: 150px;
+  }
+  .btn-card-5:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+
+  .btn-card-6{
+    border: 1px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  10px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 50px;
+    top: 150px;
+  }
+  .btn-card-6:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+
+  .btn-job-1{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  25px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 30px;
+    top: 996px;
+  }
+  .btn-job-1:hover{
+    color: #ff9898;
+    background-color: #000000;
+    border: 1px solid#000000;
+  }
+  .btn-job-2{
+    border: 2px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  25px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: -18px;
+    top: 2184px;
+  }
+  .btn-job-2:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-job-3{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  25px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 54px;
+    top: 2074px;
+  }
+  .btn-job-3:hover{
+    color: #ff9898;
+    background-color: #000000;
+    border: 1px solid#000000;
+  }
+  .btn-job-4{
+    border: 2px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  25px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: -18px;
+    top: 2184px;
+  }
+  .btn-job-4:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-job-5{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  25px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 57px;
+    top: 2160px;
+  }
+  .btn-job-5:hover{
+    color: #ff9898;
+    background-color: #000000;
+    border: 1px solid#000000;
+  }
+  .btn-job-6{
+    border: 2px solid#ff9898;
+    border-radius: 6%;
+    color: #ff9898;
+    background: none;
+    padding:  25px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: -18px;
+    top: 2184px;
+  }
+  .btn-job-6:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+
+
+
+  .btn-ban-1{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-1:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-2{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-2:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-3{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-3:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-4{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-4:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-5{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-5:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-6{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-6:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-7{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-7:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-8{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-8:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-9{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-9:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-10{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-10:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-11{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-11:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }
+  .btn-ban-12{
+    border: 2px solid#000000;
+    border-radius: 6%;
+    color: #000000;
+    background: none;
+    padding:  35px 20px;
+    font-size: 20px;
+    font: "Krona One";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+    position: absolute;
+    left: 1327px;
+    top: 40px;
+}
+  .btn-ban-12:hover{
+    color: #000000;
+    background-color: #ff9898;
+    border: 1px solid#ff9898;
+  }  
+
+  
